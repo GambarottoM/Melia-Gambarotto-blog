@@ -14,5 +14,6 @@ navbar:
 base_url: https://GambarottoM.github.io/Melia-Gambarotto-blog/ 
 collections:
     posts:
+      disqus: "melia-gambarotto-blog"
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
