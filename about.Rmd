@@ -1,8 +1,10 @@
 ---
-title: "About me"
+title: "Mélia's blog"
 ---
 
 
-This section also must include: 
 
-- first name/surname, teacher’s name, class name and academic year
+- Mélia Gambarotto,
+- Teacher: Mister Devilez,
+- BAB2 Biology 2019-2020 UMons
+- I am in the group 6
