@@ -1,11 +1,11 @@
 ---
-title: "nom-de-votre-article"
+title: "A reliable clock for your microbiome"
 description: |
-  A short description of the post.
+  This article about changes in microbiome patterns analyzes where and when the bacteria in the living gut change and divide themselves. The researchers found a new technique to understand that process..
 author:
-  - name: Nicolas Devilez
+  - name: Melia Gambarotto
     url: {}
-date: 10-02-2019
+date: 21-10-2019
 output:
   distill::distill_article:
     self_contained: false
