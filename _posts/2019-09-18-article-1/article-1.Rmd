@@ -4,8 +4,6 @@ author:
   - name: Gambarotto Mélia
 date: 10-16-2019
 categories:
-  - elephant
-  - track
 preview: 
 output:
   distill::distill_article:
@@ -60,8 +58,7 @@ This article is from EurekAlert.The [link]( https://www.eurekalert.org/pub_relea
 | Researchers                  | David T. Riglar, David L. Richmond, Laurent Potvin-Trottier, Andrew A. Verdegaal, Alexander D. Naydich, Somenath Bakshi, Emanuele Leoncini, Lorena G. Lyon, Johan Paulsson. They are almost all researchers at Harvard Medical School in Department of Systems Biology. But the article is a summary of the original article. We don’t know who wrote the summary.|
 | Published in?                |      11 october 2019                                                 |
 | General topic?               |          This article about changes in microbiome patterns analyzes where and when the bacteria in the living gut change and divide themselves. The researchers found a new technique to understand that process.             |
-| Procedure/what was examined? | To proceed, they used an oscillating gene circuit (repressilator) to measure the bacterial growth. It consists of three bacterial gene which code for three proteins. They are put into a plasmid in the cytoplasm of mammal. The number of negative feedback loop cycles informs about how many cell divisions are done.
-After that, all proteins are colored to verify which protein is activated at a specific time of growth. Finally, the researchers will detect differences in bacterial growth rates in a gut inflammation. They noted that there is wider range of phases in contaminated bacteria growth compared to normal bacteria, resulting in a modified microbiome. |
+| Procedure/what was examined? | To proceed, they used an oscillating gene circuit (repressilator) to measure the bacterial growth. It consists of three bacterial gene which code for three proteins. They are put into a plasmid in the cytoplasm of mammal. The number of negative feedback loop cycles informs about how many cell divisions are done.After that, all proteins are colored to verify which protein is activated at a specific time of growth. Finally, the researchers will detect differences in bacterial growth rates in a gut inflammation. They noted that there is wider range of phases in contaminated bacteria growth compared to normal bacteria, resulting in a modified microbiome. |
 | Conclusions/discovery?       |    Through this study, we can have a better understanding of the microbiome’s dynamics, allowing an improvement in human gut’s therapeutics.   |
 | Remaining questions?         | / |
 
