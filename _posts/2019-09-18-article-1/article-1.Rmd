@@ -2,11 +2,11 @@
 title: "Article 1 : A reliable clock for your microbiome "
 author:
   - name: Gambarotto Mélia
-date: 16-10-2019
+date: 10-16-2019
 categories:
   - elephant
   - track
-preview: image/where-s-my-elephant.jpg
+preview: 
 output:
   distill::distill_article:
     self_contained: false
@@ -26,30 +26,30 @@ This article is from EurekAlert.The [link]( https://www.eurekalert.org/pub_relea
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-|  Samples | A littel part of something          |
-|  (to) occur  |   (To)Happen, (to) do,(to) arrive|
-|(to) provide |  (to) bring |
-| Set  |Ensemble/ collection |
-| (to) link |(to) attach |
-| Feedback loop |Loop of return effect  |
-|  Repressor |  A things stop transcription of dna |
-|  Regardless |  indifferent |
-| (to) allow  | (to) authorize  |
-| Both  | The two  |
-|  Rate  |A standar quantity of something   |
+| Samples            | A littel part of something          |
+| (to) occur         |   (To)Happen, (to) do,(to) arrive|
+|(to) provide         |  (to) bring |
+| Set                 |Ensemble/ collection |
+| (to) link           |(to) attach |
+| Feedback loop       |Loop of return effect  |
+| Repressor          |  A things stop transcription of dna |
+| Regardless         |  indifferent |
+| (to) allow          | (to) authorize  |
+| Both                | The two  |
+| Rate               |A standar quantity of something   |
 | Behavior  |  Conduct|
 |  Workflow | A lot of work |
 | Outwards  | outside |
 |  Pattern |Model/ exemple  |
 | Able  |  Can do something / capable |
-|  Several |   Divers/ a lot |
+| Several |   Divers/ a lot |
 | Compound  | composit  | 
 | (to) load   | (to) charge  |
 | Imbalance  | disproportion  |
-|  Probe |  examination |
+| Probe |  examination |
 | Disturbance  |  perturbation|
 | (to) elapse  | The time is over  |
-|  Within  |  Inti/ inside |
+| Within  |  Inti/ inside |
 
 
 
