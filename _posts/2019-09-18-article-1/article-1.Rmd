@@ -17,14 +17,44 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
+This article is from EurekAlert.The [link]( https://www.eurekalert.org/pub_releases/2019-10/wifb-arc101019.php) of the article.
+
+
 ![ [Credit: Alex Dissanayake Getty Images](https://www.gettyimages.be/detail/foto/dusk-falling-as-elephants-grazing-kenya-stockfotos/187255538) ](image/where-s-my-elephant.jpg)
 
 ## Vocabulary 
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+|  Samples | A littel part of something          |
+|  (to) occur  |   (To)Happen, (to) do,(to) arrive|
+|(to) provide |  (to) bring |
+| Set  |Ensemble/ collection |
+| (to) link |(to) attach |
+| Feedback loop |Loop of return effect  |
+|  Repressor |  A things stop transcription of dna |
+|  Regardless |  indifferent |
+| (to) allow  | (to) authorize  |
+| Both  | The two  |
+|  Rate  |A standar quantity of something   |
+| Behavior  |  Conduct|
+|  Workflow | A lot of work |
+| Outwards  | outside |
+|  Pattern |Model/ exemple  |
+| Able  |  Can do something / capable |
+|  Several |   Divers/ a lot |
+| Compound  | composit  | 
+| (to) load   | (to) charge  |
+| Imbalance  | disproportion  |
+|  Probe |  examination |
+| Disturbance  |  perturbation|
+| (to) elapse  | The time is over  |
+|  Within  |  Inti/ inside |
+
+
+
+
+
 
 ## Analysis table 
 
