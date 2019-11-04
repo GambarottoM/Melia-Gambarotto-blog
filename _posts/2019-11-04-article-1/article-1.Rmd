@@ -1,7 +1,7 @@
 ---
-title: "article-1"
+title: "Article 2 : C-Section Babies Are Missing Key Microbes"
 description: |
-  A short description of the post.
+
 author:
   - name: Gambarotto Mélia
     url: {}
@@ -15,7 +15,47 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+![Photo]( http://robertdebre.aphp.fr/wp-content/blogs.dir/23/files/2012/09/Accouchement.gif)
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+## Name of the Magazine and source
+
+This article is from Scientific American. The [link]( https://www.scientificamerican.com/article/c-section-babies-are-missing-key-microbes/?WT.mc_id=send-to-friend)
+
+
+## Vocabulary
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+|yet |again   |
+|through   |  by, via    | 
+|  (to) carry  |   (to) have, (to) take         |
+|(to) lack     |  (to) miss        |
+| strains    |   the base of something        | 
+| instead    |        alternatively      |  
+|habour  |  wear | 
+|   harmful    |    dangerous      |  
+|   disease      |      malady, sickness      |   
+| concern  | worry  |   
+|  hint|insinuate   |  
+|led  |  guided |  
+|  swab |  put on |  
+|  attempt to   |  (to) try | 
+|   whether|  if | 
+|  stark |   clear |  
+|harboured   |  keep |   
+| (to) quell  |  (to) calm | 
+|  assess |  estimate |  
+| aims | goal  |   
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researcher | Trevor Lawley is a microbiologist. He works at the Wellcome Sanger Institute in U.K.|
+| Published in? | Scientific American, September 18, 2019 |
+| General topic ? | This study reveals that babies born by caesarean section (C-Section) lack some bacteria in their gut that babies born by vaginal have got. |
+| Procedure/what was examined? | Researchers analysed the DNA in the faeces of 600 babies after 4, 7 and 21 days. The difference was obvious. Babies born by C-Section have much less commensal bacteria than babies born by vaginal way. And after nine months, still 60% of these babies were lacking of a type of Bacteroides. This has a direct consequence concerning the effectiveness of their immune system. They have more opportunistic bacteria (such as Enterococcus and Klebsiella) because they stay longer in hospital where you can find most of these bacteria. Babies delivered by C-Section are more inclined to develop an antibiotic resistance because their mothers receive antibiotics which can be transmitted to the babies.|
+| Conclusions/discovery? | Researchers found differences between the gut microbiota of babies delivered by C-Section and those of babies born by vaginal way. But they don't know how to fix the problem. They tried to swab babies with vaginal fluids but it is very risky and they don't know if it's really effective. |
+| Remaining questions? | Researchers are looking for a kind of remedy so that babies born by C-Section may have the same microbiome that babies born by vaginal way have got. |
+
 
