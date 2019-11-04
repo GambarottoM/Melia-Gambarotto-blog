@@ -1,0 +1,22 @@
+---
+title: "Article 2 C-Section Babies Are Missing Key Microbes"
+description: |
+  This study reveals that babies born by caesarean section (C-Section) lack some bacteria in their gut that babies born by vaginal have got..
+  
+author::
+  - name: Gambarotto Mélia
+    url: {}
+date: 11-04-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
