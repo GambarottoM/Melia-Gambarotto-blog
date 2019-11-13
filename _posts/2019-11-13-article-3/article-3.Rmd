@@ -1,0 +1,47 @@
+---
+title: "Article 3 :  Researchers identify certain gut bacteria that may be involved in causing bowel"
+description: |
+  A short description of the post.
+author:
+  - name: Gambarotto Mélia
+    url: {}
+date: 11-13-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Name of the Magazine and source
+
+This article is from EurekAlert. The [link](https://www.eurekalert.org/pub_releases/2019-11/ncri-ric110119.php).
+
+## Vocabulary
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| bowel   |  gut           |
+|     slightly       |   softly   |  
+|     findings    |   results        | 
+|      remain       |       stay    |       
+|  unless      |   except       |  
+|   amoug          |   in between   |         
+|    component    |      constituent      | 
+|   inherit  |   come from    | 
+| alter   |   change     | 
+|trial     |   test         | 
+|   therefore      |   so    | 
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers |The researchers is Kaitlin Wade, he is a doctor, from the University of Bristol.|
+|Published in ? | EurekAlert, November 3, 2019 |
+| General topic ? | 
+
+
+
