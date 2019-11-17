@@ -15,6 +15,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![Photo](5kingdoms.org/wp-content/uploads/2017/05/OSC_Microbio_04_03_bacteroide.jpg)
+
 ## Name of the Magazine and source
 
 This article is from EurekAlert. The [link](https://www.eurekalert.org/pub_releases/2019-11/ncri-ric110119.php).
@@ -41,7 +43,11 @@ This article is from EurekAlert. The [link](https://www.eurekalert.org/pub_relea
 | ---------------------------- | ------------------------------------------------------------------- |
 | Researchers |The researchers is Kaitlin Wade, he is a doctor, from the University of Bristol.|
 |Published in ? | EurekAlert, November 3, 2019 |
-| General topic ? | 
+| General topic ? | The researcher found that the presence of a typical Bacteroidales raised up by 2-15% the risk of bowel cancer.|
+| Procedure/what was examined ? | Dr Wade used the mendelian randomisation to analyze the gut composition in order to know how many type of bacteria can be are living there. The researcher and his team did that on more than one hundred and twenty thousand persons. They discovered that bowel cancer is linked with variations in the presence and quantity of 13 types of gut bacteria. |
+| Conclusions/discovery ?| People with a specific (unclassified) type of Bacteroidales have a greater risk of gut cancer.|
+|Remaining questions ?| Researchers have worked to know exactly how some Bacteroidales are dangerous and, when these bacteria are removed , how the microbiome reacts (because the microbiome is determined by complex relationships).
+
 
 
 
