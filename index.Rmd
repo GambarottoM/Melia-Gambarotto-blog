@@ -1,5 +1,5 @@
 ---
-title: "The gut bacteria !"
+title: "The gut bacteria "
 site: distill::distill_website
 listing: posts
 ---

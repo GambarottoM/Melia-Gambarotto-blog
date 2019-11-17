@@ -1,7 +1,6 @@
 ---
 title: "Article 3 :  Researchers identify certain gut bacteria that may be involved in causing bowel"
-description: |
-  A short description of the post.
+description:
 author:
   - name: Gambarotto Mélia
     url: {}
