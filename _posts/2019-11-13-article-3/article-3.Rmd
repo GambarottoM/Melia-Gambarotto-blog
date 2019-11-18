@@ -40,13 +40,9 @@ This article is from EurekAlert. The [link](https://www.eurekalert.org/pub_relea
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers |The researchers is Kaitlin Wade, he is a doctor, from the University of Bristol.|
-|Published in ? | EurekAlert, November 3, 2019 |
-| General topic ? | The researcher found that the presence of a typical Bacteroidales raised up by 2-15% the risk of bowel cancer.|
-| Procedure/what was examined ? | Dr Wade used the mendelian randomisation to analyze the gut composition in order to know how many type of bacteria can be are living there. The researcher and his team did that on more than one hundred and twenty thousand persons. They discovered that bowel cancer is linked with variations in the presence and quantity of 13 types of gut bacteria. |
-| Conclusions/discovery ?| People with a specific (unclassified) type of Bacteroidales have a greater risk of gut cancer.|
-|Remaining questions ?| Researchers have worked to know exactly how some Bacteroidales are dangerous and, when these bacteria are removed , how the microbiome reacts (because the microbiome is determined by complex relationships).
-
-
-
-
+| Researchers Researchers |The researcher is Kaitlin Wade, a doctor from the University of Bristol.|
+|Published in ? | 3 november 2019|
+| General topic ? | The researcher wanted to verifiy ome variation in the human gut microbiome can increase the risk of bowel cancer.|
+| Procedure/what was examined ? | Dr Wade used the Mendelian randomisation method to analyze the variation of gut bacteria (quantity and types) in order to know if it is a possible cause of colorectal cancer. The researcher and his team used data from more one hundred and twenty thousand persons. They discovered the presence of 13 types of gut bacteria, but that an unclassified type of bacteria (from Bacteroidales group) increase the risk of bowel cancer.|
+ |Conclusions/discovery ?| People with a specific (unclassified) type of Bacteroidales have a greater risk of gut cancer (raised up by 2-15).|
+|Remaining questions ?| Since there are complex relationships between types and numbers of bacteria in the microbiome, the results of the method used need to be carefully handled. Moreover, it is difficult to know exactly if the removal of some bacteria can really reduce the risk of cancer.|
