@@ -14,7 +14,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![Photo](5kingdoms.org/wp-content/uploads/2017/05/OSC_Microbio_04_03_bacteroide.jpg)
+![Photo](https://cunicultura.com/images/uploads/2015/11/19/source/probioticos_2_opt.jpeg)
 
 ## Name of the Magazine and source
 
@@ -40,7 +40,7 @@ This article is from EurekAlert. The [link](https://www.eurekalert.org/pub_relea
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers Researchers |The researcher is Kaitlin Wade, a doctor from the University of Bristol.|
+| Researchers |The researcher is Kaitlin Wade, a doctor from the University of Bristol.|
 |Published in ? | 3 november 2019|
 | General topic ? | The researcher wanted to verifiy ome variation in the human gut microbiome can increase the risk of bowel cancer.|
 | Procedure/what was examined ? | Dr Wade used the Mendelian randomisation method to analyze the variation of gut bacteria (quantity and types) in order to know if it is a possible cause of colorectal cancer. The researcher and his team used data from more one hundred and twenty thousand persons. They discovered the presence of 13 types of gut bacteria, but that an unclassified type of bacteria (from Bacteroidales group) increase the risk of bowel cancer.|

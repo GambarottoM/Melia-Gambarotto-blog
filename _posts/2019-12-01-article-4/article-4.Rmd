@@ -1,0 +1,51 @@
+---
+title: "Article 4 : Targeting Gut Microbes May Help Stroke Recovery"
+description: |
+  
+author:
+  - name: Gambarotto Mélia
+    url: {}
+date: 12-01-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Photo](https://s3.portalt5.com.br/imagens/AVC-imagem.jpg?mtime=20181029080325)
+
+## Name of the Magazine and source
+
+This article is from Scientific American. The [link](https://www.scientificamerican.com/article/targeting-gut-microbes-may-help-stroke-recovery/ )
+
+
+## Vocabulary
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+|clot| | a block of blood coagulate|
+|finding |result|
+|disrupt|  perturb|
+|Mainly|  mostly|
+|aging| is the process of growing old |
+|deplete| reduce |
+|pellet| pastil pill|
+|among| in the group|
+|several| a lot |
+|sneak| slide|
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers |Venugopal Venna is a stroke researcher (Houston), Arthur Liesz is a neurologist (Munich), and Ulrich Dirnagl is a neurologist and stroke scientist (Berlin).|
+|Published in ? |November 19, 2019|
+| General topic ? | Which microbiome can help to recover faster from ischemic stroke ? |
+| Procedure/what was examined ? | Researchers found that poststroke damage was more important with mice having an old microbiome. Inversely, with young intestinal flora, mice would have a better recovery from a stroke.In fact, the presence of short-chain fatty acids (microorganisms produced by bacterial fermentation of fiber in the gut) is able to improve things because they modify the activity of immune cells after a stroke. So, they help the immune system to indirectly repair more effectively stroke damages in the brain. |
+| Conclusions/discovery ?|A better and quicker recovery from an ischemic stroke could take place with gut-microbe metabolites (linked with amino acid tryptophan) which help mice brain repair.|
+|Remaining questions ?| The researchers don’t know if the microbiome’s role in stroke would be the same with human beings. More investigations are needed on a significant human sample group.  Neurologist Ulrich Dirnagl is skeptical with the experiment on laboratory animals because they live in an artificial environment. Their microbiome does not represent the diversity of flora found in wild animals and in human beings. For Dirnagl, it is too much far off real life.|
+
+
