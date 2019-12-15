@@ -1,0 +1,49 @@
+---
+title: "Article 5  : Whales may owe their efficient digestion to millions of tiny microbes "
+description: |
+  
+author:
+  - name: Gambarotto Mélia
+    url: {}
+date: 12-15-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Photo](https://lh3.ggpht.com/-G5KgcyY6hkI/UHfFpRGnl_I/AAAAAAAAA9c/OqmwawBdbNs/s1600/jpg_biodiversite_03.jpg)
+
+
+## Name of the Magazine and source
+This article is from ScienceDaily. The [link](https://www.sciencedaily.com/releases/2019/12/191205130526.htm)
+
+## Vocabulary
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+|Prey |animal killed by another for food |
+|Tiny |minuscule |
+|Refer| mention|
+|Otherwise| differently|
+|Yield| produce|
+|Rely upon| depend on|
+|Decade| ten years|
+|Glimpse| see or perceive|
+
+
+## Analysis table
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers | Carolyn A. Miller, Henry C. Holm, Lara Horstmann, John C. George, Helen F. Fredricks, Benjamin A. S. Van Mooy, Amy Apprill; Woods Hole Oceanographic Institution, MA, USA.|
+| Published in ? | December 5, 2019 |
+| General topic ? | This study shows how bowhead whales (a small amount of them being harvested by Alaskan Eskimos) are able to digest an enormous quantity of wax esters, one of the most abundant carbon-rich lipids of the ocean that can be found in very small crustaceans.|
+| Procedure/what was examined ?| Carolyn A. Miller and her colleagues analyzed over one hundred samples of guts from freshly harvested bowhead whales and found that the microbial community plays an important role in the efficient digestion of wax esters. So, gut microbiota with its millions of tiny microbes and bacteria is probably essential for whales to digest lipids that are so difficult to digest for other animals.|
+| Conclusions/discovery ? | Since whales consume a great amount of wax ester-rich prey, it is very important to understand how their gut microbiota enables them to digest fatty prey compounds so vital for their health and reproduction. |
+| Remaining questions? | Researchers must still try to determine how much of the digestive process is really due to the microbial communities living in the whale’s intestines. The research should also find if the gut microbiotas of whales have the capacity to adapt to climate change and its effects on carbon rich lipids they rely upon to sustain themselves.  
+
+
