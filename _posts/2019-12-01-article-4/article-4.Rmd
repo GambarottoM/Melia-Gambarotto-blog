@@ -1,7 +1,6 @@
 ---
 title: "Article 4 : Targeting Gut Microbes May Help Stroke Recovery"
 description: |
-  
 author:
   - name: Gambarotto Mélia
     url: {}

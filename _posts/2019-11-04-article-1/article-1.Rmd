@@ -1,7 +1,6 @@
 ---
 title: "Article 2 : C-Section Babies Are Missing Key Microbes"
 description: |
-
 author:
   - name: Gambarotto Mélia
     url: {}
