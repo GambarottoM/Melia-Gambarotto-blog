@@ -1,11 +1,11 @@
 ---
 title: "Article 2 : C-Section Babies Are Missing Key Microbes"
 description: |
-
 author:
   - name: Gambarotto Mélia
     url: {}
 date: 11-04-2019
+preview: http://robertdebre.aphp.fr/wp-content/blogs.dir/23/files/2012/09/Accouchement.gif
 output:
   distill::distill_article:
     self_contained: false

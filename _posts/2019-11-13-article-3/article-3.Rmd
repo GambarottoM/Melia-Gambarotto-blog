@@ -5,6 +5,7 @@ author:
   - name: Gambarotto Mélia
     url: {}
 date: 11-13-2019
+preview: https://cunicultura.com/images/uploads/2015/11/19/source/probioticos_2_opt.jpeg
 output:
   distill::distill_article:
     self_contained: false
