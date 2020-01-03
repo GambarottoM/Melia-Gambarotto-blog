@@ -11,8 +11,13 @@
     ],
     "date": "2019-12-15",
     "categories": [],
+<<<<<<< HEAD
     "preview": "https://lh3.ggpht.com/-G5KgcyY6hkI/UHfFpRGnl_I/AAAAAAAAA9c/OqmwawBdbNs/s1600/jpg_biodiversite_03.jpg",
     "last_modified": "2019-12-30T15:08:54+01:00"
+=======
+    "preview": {},
+    "last_modified": "2019-12-19T15:40:44+01:00"
+>>>>>>> 7613900f407aeb66c4e0304295f49bfb057f4ef5
   },
   {
     "path": "posts/2019-12-01-article-4/",
@@ -26,8 +31,13 @@
     ],
     "date": "2019-12-01",
     "categories": [],
+<<<<<<< HEAD
     "preview": "https://s3.portalt5.com.br/imagens/AVC-imagem.jpg?mtime=20181029080325",
     "last_modified": "2019-12-30T14:52:12+01:00"
+=======
+    "preview": {},
+    "last_modified": "2019-12-19T15:41:03+01:00"
+>>>>>>> 7613900f407aeb66c4e0304295f49bfb057f4ef5
   },
   {
     "path": "posts/2019-11-13-article-3/",
@@ -42,7 +52,7 @@
     "date": "2019-11-13",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-12-01T17:35:11+01:00"
+    "last_modified": "2019-12-19T15:41:29+01:00"
   },
   {
     "path": "posts/2019-11-11-my-english-activity-log-meal/",
@@ -57,7 +67,7 @@
     "date": "2019-11-11",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-17T12:51:01+01:00"
+    "last_modified": "2019-12-19T15:37:33+01:00"
   },
   {
     "path": "posts/2019-11-04-article-1/",
@@ -72,7 +82,7 @@
     "date": "2019-11-04",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-11T15:34:15+01:00"
+    "last_modified": "2019-12-19T15:42:13+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -87,7 +97,7 @@
     "date": "2019-10-16",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-11T15:34:15+01:00"
+    "last_modified": "2019-12-19T15:39:43+01:00"
   },
   {
     "path": "posts/2019-10-02-nom-de-votre-article/",
@@ -102,6 +112,6 @@
     "date": "2019-10-02",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-11T15:34:15+01:00"
+    "last_modified": "2019-10-21T14:04:14+02:00"
   }
 ]
