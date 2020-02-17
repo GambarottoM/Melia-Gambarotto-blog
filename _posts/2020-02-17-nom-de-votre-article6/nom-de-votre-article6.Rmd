@@ -1,10 +1,11 @@
 ---
-title: "How diet affects gut microbiome"
+title: "Article 6 : How diet affects gut microbiome"
 description: |
 author:
   - name: Gambarotto Mélia
     url: {}
 date: 02-17-2020
+preview: https://www.mada-hotels-consultant.com/wp-content/uploads/2014/09/Nourriture-boissons-madahotelconsultant.jpg 
 output:
   distill::distill_article:
     self_contained: false
