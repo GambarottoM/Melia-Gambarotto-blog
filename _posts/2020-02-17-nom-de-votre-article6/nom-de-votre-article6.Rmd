@@ -1,0 +1,43 @@
+---
+title: "How diet affects gut microbiome"
+description: |
+author:
+  - name: Gambarotto Mélia
+    url: {}
+date: 02-17-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![photo](https://www.mada-hotels-consultant.com/wp-content/uploads/2014/09/Nourriture-boissons-madahotelconsultant.jpg)
+
+
+This article is from Live Science .The [link](https://www.livescience.com/65737-how-diet-affects-gut-microbiome.html)
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+| Stool |feces|
+|Poorly| unwell|
+|Indeed |in fact|
+|Quash| cancel|
+|seem |appear|
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | Dan Knights is a computational microbiologist at the University of Minnesota.|
+|Published in?                 | June 18, 2019|
+|General topic?| The researchers tried to understand how a diet affects gut microbiota in a specific way with each individual.|
+|Procedure/what was examined?| 34 healthy volunteers were asked to record precisely all the food and drink they consumed during 17 days. Their daily feces have been analyzed with the shotgun metagenomics method.|
+|Conclusions/discovery? |This detailed study revealed that the gut microbiome is really affected by the food eaten by a person : nine specific relationships were found between a type of food and microbiome changes. But the same food didn’t have an identical effect from one person to another. Each individual microbiome is unique and its own way to be affected by the food eaten is still a mystery.|
+|Remaining questions?| Now the researchers would like to identify which specific things in the food and in addition to it produce variations in the microbiome. They also want to understand how modern food affects the microbiome and might destroy our ancestral microbes.|
+

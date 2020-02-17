@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-02-17-nom-de-votre-article6/",
+    "title": "How diet affects gut microbiome",
+    "description": {},
+    "author": [
+      {
+        "name": "Gambarotto Mélia",
+        "url": {}
+      }
+    ],
+    "date": "2020-02-17",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-02-17T11:10:05+01:00"
+  },
+  {
     "path": "posts/2019-12-15-article-5/",
     "title": "Article 5  : Whales may owe their efficient digestion to millions of tiny microbes ",
     "description": {},
@@ -13,8 +28,6 @@
     "categories": [],
     "preview": "https://lh3.ggpht.com/-G5KgcyY6hkI/UHfFpRGnl_I/AAAAAAAAA9c/OqmwawBdbNs/s1600/jpg_biodiversite_03.jpg",
     "last_modified": "2019-12-30T15:08:54+01:00"
-    "preview": {},
-    "last_modified": "2019-12-19T15:40:44+01:00"
   },
   {
     "path": "posts/2019-12-01-article-4/",
@@ -28,13 +41,8 @@
     ],
     "date": "2019-12-01",
     "categories": [],
-<<<<<<< HEAD
     "preview": "https://s3.portalt5.com.br/imagens/AVC-imagem.jpg?mtime=20181029080325",
     "last_modified": "2019-12-30T14:52:12+01:00"
-=======
-    "preview": {},
-    "last_modified": "2019-12-19T15:41:03+01:00"
->>>>>>> 7613900f407aeb66c4e0304295f49bfb057f4ef5
   },
   {
     "path": "posts/2019-11-13-article-3/",
