@@ -1,0 +1,48 @@
+---
+title: "Article 7 : How Gut Microbes Shape Our Response to Drugs "
+description: |
+author:
+  - name: Gambarotto Mélia
+    url: {}
+date: 03-02-2020
+preview: https://www.lyoncapitale.fr/var/plain_site/storage/images/media/photos/evenements/actualites/medicament/1137105-1-fre-FR/medicament.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+![Photo](https://www.lyoncapitale.fr/var/plain_site/storage/images/media/photos/evenements/actualites/medicament/1137105-1-fre-FR/medicament.jpg
+)
+
+## Name of the Magazine and source
+This article is from Scientific American. The [link](https://www.scientificamerican.com/article/how-gut-microbes-shape-our-response-to-drugs/)
+
+## Vocabulary
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+|Side effect| secondary or undesirable effect|
+|(to) Swallow| (to) take internally|
+|Aware| conscious|
+| Mouthful| a great quantity of food that can fill the mouth |
+
+
+## Analysis table
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers |Emily Balskus, a professor of chemistry at Harvard University. Peter Turnbaugh, a microbiologist at the University of California (San Francisco) and Matthew Redinbo, a chemist at the University of North Carolina (Chapel Hill) |
+| Published in ? | January 1, 2020 |
+| General topic ? | Gut bacteria can help us to assimilate drugs more efficiently but they can also make them less effective and harmful.|
+| Procedure/what was examined?| Several drugs have been examined such as L-dopa which treats Parkinson’s disease, or digoxin used for cardiac problems. In both cases, some intestinal microbes can inactivate them in a way that varies from person to person. So, it is necessary to find how to prevent the destruction of these drugs by gut bacteria. On the other hand, bacteria can also increase the effects of drugs. This is the case with sulfasalazine (used for rheumatoid arthritis and Crohn’s disease) and metformin (used for type 2 diabetes) which must be transformed by the microbiome to be more effective. |
+| Conclusions/discovery ? | To conclude, we note that gut microbes can have a positive or a negative effect on drugs. They increase the effectiveness of some drugs and disable others. But drugs like irinotecan (used to fight colon and pancreatic cancers) can cause intestinal damage  (severe diarrhea) and be toxic for the people treated.|
+| Remaining questions? |What is called “pharmacomicrobiomics” is a promising new field of research that needs to be developed. Balskus and Redindo want to improve their knowledge of microbiotal and drugs interactions in order to find more effective treatments of diseases without side effects.|
+
+
+
+

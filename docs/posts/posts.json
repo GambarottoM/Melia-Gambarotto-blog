@@ -1,7 +1,22 @@
 [
   {
+    "path": "posts/2020-03-02-article-7/",
+    "title": "Article 7 : How Gut Microbes Shape Our Response to Drugs ",
+    "description": {},
+    "author": [
+      {
+        "name": "Gambarotto Mélia",
+        "url": {}
+      }
+    ],
+    "date": "2020-03-02",
+    "categories": [],
+    "preview": "https://www.lyoncapitale.fr/var/plain_site/storage/images/media/photos/evenements/actualites/medicament/1137105-1-fre-FR/medicament.jpg",
+    "last_modified": "2020-03-02T10:41:39+01:00"
+  },
+  {
     "path": "posts/2020-02-17-nom-de-votre-article6/",
-    "title": "How diet affects gut microbiome",
+    "title": "Article 6 : How diet affects gut microbiome",
     "description": {},
     "author": [
       {
@@ -11,8 +26,8 @@
     ],
     "date": "2020-02-17",
     "categories": [],
-    "preview": {},
-    "last_modified": "2020-02-17T11:10:05+01:00"
+    "preview": "https://www.mada-hotels-consultant.com/wp-content/uploads/2014/09/Nourriture-boissons-madahotelconsultant.jpg",
+    "last_modified": "2020-02-17T11:23:03+01:00"
   },
   {
     "path": "posts/2019-12-15-article-5/",
