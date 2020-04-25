@@ -118,20 +118,5 @@
     "categories": [],
     "preview": {},
     "last_modified": "2019-12-19T15:39:43+01:00"
-  },
-  {
-    "path": "posts/2019-10-02-nom-de-votre-article/",
-    "title": "nom-de-votre-article",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Nicolas Devilez",
-        "url": {}
-      }
-    ],
-    "date": "2019-10-02",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-10-21T14:04:14+02:00"
   }
 ]
