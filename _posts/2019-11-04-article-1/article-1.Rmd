@@ -15,7 +15,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![Photo]( http://robertdebre.aphp.fr/wp-content/blogs.dir/23/files/2012/09/Accouchement.gif)
+![Photo](http://robertdebre.aphp.fr/wp-content/blogs.dir/23/files/2012/09/Accouchement.gif)
+
 
 ## Name of the Magazine and source
 

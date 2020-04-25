@@ -16,8 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![Photo](https://www.lyoncapitale.fr/var/plain_site/storage/images/media/photos/evenements/actualites/medicament/1137105-1-fre-FR/medicament.jpg
-)
+![Photo](https://www.lyoncapitale.fr/var/plain_site/storage/images/media/photos/evenements/actualites/medicament/1137105-1-fre-FR/medicament.jpg)
 
 ## Name of the Magazine and source
 This article is from Scientific American. The [link](https://www.scientificamerican.com/article/how-gut-microbes-shape-our-response-to-drugs/)

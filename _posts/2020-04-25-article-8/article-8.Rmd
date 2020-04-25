@@ -1,0 +1,43 @@
+---
+title: "Article 8 : Drinking green tea may help with food allergies"
+description: |
+author:
+  - name: Gambarotto Mélia
+    url: {}
+date: 04-25-2020
+preview: https://peekerhealth.com/wp-content/uploads/2019/10/green-tea-732x405.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Photo](https://peekerhealth.com/wp-content/uploads/2019/10/green-tea-732x405.jpg)
+
+## Name of the Magazine and source
+This article is from EurekAlert. The [link](https://www.eurekalert.org/pub_releases/2020-04/su-dgt040820.php)
+
+## Vocabulary
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+|Strain| stock|
+|Lean |skinny|
+|Delighted |happy|
+|Infancy |childhood|
+
+## Analysis table
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers |Tasuku Ogita is a researcher at Shinshu University (Nagano, Japan) |
+| Published in ? | April 8, 2020 |
+| General topic ? | Drinking green tea increases the presence of Flavonifractor plautii (FP) a gut bacteria that help to suppress the Th2 immune response that occurs during food allergy. The more FP you have, the less allergic response you get (FP is inhibiting inflammation).|
+| Procedure/what was examined|To demonstrate his research findings, Dr Ogita had to do a FP culture out of the intestine during 6 months in order to get a photo of FP. It is important to note that Nagano’s region has a specific diet composed of a lot of fermented food and it could explain why its residents live longer and healthier than in other places of Japan.|
+| Conclusions/discovery ? |The abundance of FP in the gut is increased by green tea drinking. This bacteria decreases the Th2 immune response and improves the metabolic processes in the body. |
+| Remaining questions? |More testing is needed to ensure the safety of FP if it should be used as an anti-allergy probiotic.|
+
+
