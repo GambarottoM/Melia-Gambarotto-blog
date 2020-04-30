@@ -2,31 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://GambarottoM.github.io/Melia-Gambarotto-blog/about.html</loc>
-    <lastmod>2020-02-17T10:42:25+01:00</lastmod>
+    <lastmod>2020-04-25T15:56:07+02:00</lastmod>
   </url>
   <url>
     <loc>https://GambarottoM.github.io/Melia-Gambarotto-blog/</loc>
-    <lastmod>2020-02-17T10:42:25+01:00</lastmod>
+    <lastmod>2020-04-25T15:56:09+02:00</lastmod>
+  </url>
+  <url>
+    <loc>https://GambarottoM.github.io/Melia-Gambarotto-blog/posts/2020-04-25-article-8/</loc>
+    <lastmod>2020-04-30T15:20:46+02:00</lastmod>
   </url>
   <url>
     <loc>https://GambarottoM.github.io/Melia-Gambarotto-blog/posts/2020-03-02-article-7/</loc>
-    <lastmod>2020-03-02T10:41:39+01:00</lastmod>
+    <lastmod>2020-04-30T15:18:33+02:00</lastmod>
   </url>
   <url>
     <loc>https://GambarottoM.github.io/Melia-Gambarotto-blog/posts/2020-02-17-nom-de-votre-article6/</loc>
-    <lastmod>2020-02-17T11:23:03+01:00</lastmod>
+    <lastmod>2020-04-30T15:17:19+02:00</lastmod>
   </url>
   <url>
     <loc>https://GambarottoM.github.io/Melia-Gambarotto-blog/posts/2019-12-15-article-5/</loc>
-    <lastmod>2019-12-30T15:08:54+01:00</lastmod>
+    <lastmod>2020-04-30T15:16:31+02:00</lastmod>
   </url>
   <url>
     <loc>https://GambarottoM.github.io/Melia-Gambarotto-blog/posts/2019-12-01-article-4/</loc>
-    <lastmod>2019-12-30T14:52:12+01:00</lastmod>
+    <lastmod>2020-04-30T15:15:34+02:00</lastmod>
   </url>
   <url>
     <loc>https://GambarottoM.github.io/Melia-Gambarotto-blog/posts/2019-11-13-article-3/</loc>
-    <lastmod>2019-12-19T15:41:29+01:00</lastmod>
+    <lastmod>2020-04-30T15:14:40+02:00</lastmod>
   </url>
   <url>
     <loc>https://GambarottoM.github.io/Melia-Gambarotto-blog/posts/2019-11-11-my-english-activity-log-meal/</loc>
@@ -34,14 +38,10 @@
   </url>
   <url>
     <loc>https://GambarottoM.github.io/Melia-Gambarotto-blog/posts/2019-11-04-article-1/</loc>
-    <lastmod>2019-12-19T15:42:13+01:00</lastmod>
+    <lastmod>2020-04-30T15:12:41+02:00</lastmod>
   </url>
   <url>
     <loc>https://GambarottoM.github.io/Melia-Gambarotto-blog/posts/2019-09-18-article-1/</loc>
-    <lastmod>2019-12-19T15:39:43+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://GambarottoM.github.io/Melia-Gambarotto-blog/posts/2019-10-02-nom-de-votre-article/</loc>
-    <lastmod>2019-10-21T14:04:14+02:00</lastmod>
+    <lastmod>2020-04-30T15:10:34+02:00</lastmod>
   </url>
 </urlset>
