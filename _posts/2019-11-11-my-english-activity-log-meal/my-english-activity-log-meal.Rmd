@@ -1,6 +1,6 @@
 ---
 title: "My English Activity Log M.E.AL."
-description: |
+description: 
   
 author:
   - name: Gambarotto Mélia
@@ -15,7 +15,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# The series 
+# The series and movies
 
 I have been watching Friends in English of course.
 
@@ -24,7 +24,11 @@ I have been watching Friends in English of course.
 - Episode 1, 2, 3, 4, 5, 6, 7 : done, I did not understand everything but I can do a summary. 
 - Episode 8,9 I understand the jokes ! (14/11/19)
 
-- February 2020 : I saw the 10 seasons of Friends. And I begin the first season of Brooklyn nine-nine.
+- February 2020: I saw the 10 seasons of Friends. And I begin the first season of Brooklyn nine-nine.
+
+- March and April 2020: I saw Forrest Gump, Taxi driver, Impossible mission.
+
+- May 2020 : I subscribed to English YouTube channels like Amoeba Sisters and Kurzgesagt – In a Nutshell.
 
 # Reading
 
